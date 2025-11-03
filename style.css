@@ -420,21 +420,6 @@ body::after {
     transform: translate(-50%, -50%) rotate(-360deg);
   }
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 .glow-genz-button {
   background: transparent;
   border: 2px solid var(--accent);
@@ -1021,4 +1006,5 @@ body::after {
   .social-links {
     justify-content: center;
   }
+
 }
