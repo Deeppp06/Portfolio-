@@ -190,7 +190,7 @@ body::after {
 }
 
 .hamburger span {
-  width: 25px;
+  width: 30px;
   height: 3px;
   background: var(--text);
   transition: all 0.3s ease;
@@ -1008,3 +1008,4 @@ body::after {
   }
 
 }
+
