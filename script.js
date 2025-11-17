@@ -233,6 +233,7 @@ document.getElementById("contact-form").addEventListener("submit", function(e) {
     });
 });
 
+    
 }
 
 document.addEventListener('DOMContentLoaded', function () {
@@ -256,4 +257,5 @@ document.addEventListener('DOMContentLoaded', function () {
             }
         );
     });
+
 });
